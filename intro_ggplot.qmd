@@ -12,6 +12,8 @@ editor: visual
 library(tidyverse)
 library(ggpubr)
 library(readxl)
+library(PxWebApiData)
+
 ```
 
 ## Intro ggplot
@@ -430,4 +432,10 @@ paste(
 
 ```{r}
 metadata_10540$Tid
+```
+
+Hvordan vi vanligvis jobber
+
+```{r}
+
 ```
